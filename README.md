@@ -1,5 +1,20 @@
 # 💫 About Me:
-👋 Hey, I’m Koushik!<br><br>I’m an adaptable developer driven by curiosity and a passion for building across multiple domains—Full Stack Development, Data Science, AI/ML, Mobile Development, and IoT. I enjoy transforming ideas into scalable, meaningful applications, whether it’s web, mobile, or intelligent systems.<br><br>I’ve built projects like a Disaster Relief Website, Movie Ticket Booking Website, MERN Inventory App, ShelfMate (Flutter + Firebase), a Resume Analyzer, and “Will It Rain on My Parade?”, a NASA Space Apps Challenge project where I used LSTM models to predict rainfall patterns using satellite data.<br><br>💡 What I Work With<br><br>I explore the full spectrum of modern tech:<br><br>Full Stack: React, Node.js, Express, MongoDB<br><br>Mobile Development: Flutter, Firebase<br><br>AI / Machine Learning: Python, LSTM, data preprocessing, predictive modeling<br><br>Data Science: analytics, visualization, problem-driven workflows<br><br>IoT & Embedded: ESP32, sensors, real-world automation experiments<br><br>Architecture & Best Practices: modular design, clean APIs, scalability, usability<br><br>My core focus remains on:<br><br>Scalability – writing maintainable, modular systems<br><br>Usability – crafting smooth, intuitive user experiences<br><br>Impact – solving meaningful real-world problems<br><br>🤝 Let’s Connect<br><br>I’m always open to collaborations—projects, hackathons, research, or anything exciting in tech.<br>Explore my work on GitHub, and feel free to reach out anytime!
+
+👋 Hey, I’m Koushik!  
+I’m a curious, adaptable developer passionate about building across Full Stack, Data Science, AI/ML, Mobile, and IoT. I love turning ideas into scalable, meaningful apps—whether web, mobile, or intelligent systems.  
+
+🚀 Projects I’ve built: Disaster Relief Website, Movie Ticket Booking, MERN Inventory App, ShelfMate (Flutter + Firebase), Resume Analyzer, and *Will It Rain on My Parade?*—a NASA Space Apps Challenge project using LSTM models to predict rainfall with satellite data.  
+
+💡 Tech I work with:  
+- Full Stack: React, Node.js, Express, MongoDB  
+- Mobile: Flutter, Firebase  
+- AI/ML: Python, LSTM, predictive modeling  
+- Data Science: analytics & visualization  
+- IoT: ESP32, sensors, automation  
+
+🎯 Focus: Scalability, Usability, and Impact.  
+
+🤝 Always open to collaborations—projects, hackathons, or research. Check out my GitHub and let’s connect!  
 
 
 ## 🌐 Socials:
