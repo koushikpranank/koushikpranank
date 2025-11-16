@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 👋 Hey, I’m Koushik!  
-I’m a curious, adaptable developer passionate about building across Full Stack, Data Science, AI/ML, Mobile, and IoT. I love turning ideas into scalable, meaningful apps—whether web, mobile, or intelligent systems.  
+I’m a curious, adaptable developer passionate about building across Full Stack, Data Science, AI/ML, Mobile. I love turning ideas into scalable, meaningful apps—whether web, mobile.  
 
 🚀 Projects I’ve built: Disaster Relief Website, Movie Ticket Booking, MERN Inventory App, ShelfMate (Flutter + Firebase), Resume Analyzer, and *Will It Rain on My Parade?*—a NASA Space Apps Challenge project using LSTM models to predict rainfall with satellite data.  
 
@@ -10,7 +10,6 @@ I’m a curious, adaptable developer passionate about building across Full Stack
 - Mobile: Flutter, Firebase  
 - AI/ML: Python, LSTM, predictive modeling  
 - Data Science: analytics & visualization  
-- IoT: ESP32, sensors, automation  
 
 🎯 Focus: Scalability, Usability, and Impact.  
 
