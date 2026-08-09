@@ -1,19 +1,39 @@
-# 💫 About Me:
+# ⚡ Koushik Eslavath
 
-👋 Hey, I’m Koushik!  
-I’m a curious, adaptable developer passionate about building across Full Stack, Data Science, AI/ML, Mobile. I love turning ideas into scalable, meaningful apps—whether web, mobile.  
+I’m a **Computer Science Developer** driven by a simple goal: building software that solves real-world problems cleanly, efficiently, and at scale. 
 
-🚀 Projects I’ve built: Disaster Relief Website, Movie Ticket Booking, MERN Inventory App, ShelfMate (Flutter + Firebase), Resume Analyzer, and *Will It Rain on My Parade?*—a NASA Space Apps Challenge project using LSTM models to predict rainfall with satellite data.  
+I don't confine myself to a single layer of the stack. Whether I’m engineering responsive web interfaces, crafting mobile apps, or building predictive machine learning models, I focus on performance, usability, and architecture.
 
-💡 Tech I work with:  
-- Full Stack: React, Node.js, Express, MongoDB  
-- Mobile: Flutter, Firebase  
-- AI/ML: Python, LSTM, predictive modeling  
-- Data Science: analytics & visualization  
+---
 
-🎯 Focus: Scalability, Usability, and Impact.  
+### 💻 Core Tech Stack
 
-🤝 Always open to collaborations—projects, hackathons, or research. Check out my GitHub and let’s connect!  
+* **Languages:** Java, Python, JavaScript, Dart, C
+* **Full-Stack:** React, Node.js, Express, MongoDB, MySQL, REST APIs
+* **Mobile:** Flutter, Dart, Firebase
+* **AI / ML & Data:** Python, PyTorch, LSTM Models, Data Analytics & Visualization
+* **Developer Tools:** Git, GitHub, VS Code
+
+---
+
+### 🛠 Featured Projects
+
+* **Will It Rain On My Parade?** *(NASA Space Apps Challenge 2025)*  
+  Built an LSTM model utilizing satellite data to predict localized rainfall patterns with high accuracy.
+* **Fire Weather Index Predictor**  
+  Developed a data science machine learning model to estimate forest fire risk factors based on meteorological inputs.
+* **Universal CRUD Boilerplate**  
+  A scalable full-stack starter template built using the MERN stack and relational databases for rapid deployment.
+* **QuickChat App**  
+  A sleek, real-time messaging mobile application built with Flutter and Firebase.
+
+---
+
+### 🎯 What Drives Me
+
+I thrive in fast-paced environments—from high-energy hackathons to intensive research collaborations. My approach centers on writing clean code, designing intuitive user experiences, and continuously expanding my technical breadth.
+
+🤝 **Open for Collaborations:** Technical projects, research fellowships, or hackathons. Let’s build something impactful together!
 
 
 ## 🌐 Socials:
