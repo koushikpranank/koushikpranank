@@ -24,8 +24,6 @@ I don't confine myself to a single layer of the stack. Whether I’m engineering
   Developed a data science machine learning model to estimate forest fire risk factors based on meteorological inputs.
 * **Universal CRUD Boilerplate**  
   A scalable full-stack starter template built using the MERN stack and relational databases for rapid deployment.
-* **QuickChat App**  
-  A sleek, real-time messaging mobile application built with Flutter and Firebase.
 
 ---
 
